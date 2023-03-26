@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="167" started-at="2023-03-26T03:09:39Z" finished-at="2023-03-26T03:09:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="167" started-at="2023-03-26T03:09:39Z" finished-at="2023-03-26T03:09:39Z">
+      <class name="practiceTestNG.TestNGTestsWithPriority">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:practiceTestNG.TestNGTestsWithPriority@4ddced80]" name="launchApplication" duration-ms="26" started-at="2023-03-26T03:09:39Z" finished-at="2023-03-26T03:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="loginToApplication()[pri:0, instance:practiceTestNG.TestNGTestsWithPriority@4ddced80]" name="loginToApplication" duration-ms="6" started-at="2023-03-26T03:09:39Z" finished-at="2023-03-26T03:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="replyToAnEmail()[pri:2, instance:practiceTestNG.TestNGTestsWithPriority@4ddced80]" name="replyToAnEmail" duration-ms="3" started-at="2023-03-26T03:09:39Z" finished-at="2023-03-26T03:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- replyToAnEmail -->
+        <test-method status="PASS" signature="forwardAnEmail()[pri:3, instance:practiceTestNG.TestNGTestsWithPriority@4ddced80]" name="forwardAnEmail" duration-ms="3" started-at="2023-03-26T03:09:39Z" finished-at="2023-03-26T03:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forwardAnEmail -->
+        <test-method status="PASS" signature="deleteAnEmail()[pri:4, instance:practiceTestNG.TestNGTestsWithPriority@4ddced80]" name="deleteAnEmail" duration-ms="7" started-at="2023-03-26T03:09:39Z" finished-at="2023-03-26T03:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAnEmail -->
+      </class> <!-- practiceTestNG.TestNGTestsWithPriority -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
